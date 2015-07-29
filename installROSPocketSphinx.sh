@@ -6,5 +6,5 @@ sudo apt-get install xvfb -y
 # Assume that the installation for the JetsonBot is in ~/jetsonbot
 cd ~/jetsonbot/src
 git clone https://github.com/jetsonhacks/pocketsphinx.git
-/bin/echo -e "\e[1;32mROS Pocketsphinx for JetsonBot complete.\e[0m"
+/bin/echo -e "\e[1;32mROS Pocketsphinx installation for JetsonBot complete.\e[0m"
 
