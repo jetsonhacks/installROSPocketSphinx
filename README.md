@@ -1,2 +1,2 @@
 # installROSPocketSphinx
-Install the ROS PocketSphinx package
+Install the ROS PocketSphinx package for the JetsonBot
